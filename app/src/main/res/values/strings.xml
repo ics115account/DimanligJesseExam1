@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DimanligJesseExam1</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="Fiction">checkBox4</string>
+    <string name="todo">TODO</string>
+    <string name="fiction">Fiction</string>
+</resources>
